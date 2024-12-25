@@ -1,0 +1,25 @@
+
+pip install flask
+
+
+flask run
+
+
+#### ngrok     https://download.ngrok.com/windows?tab=download
+               https://dashboard.ngrok.com/get-started/setup/windows
+
+
+userId mvsk2k 
+PW ...@ngrok
+mail mvsk2k@gmail.com
+
+
+ngrok config add-authtoken 2qhYMIMc1MUMPvxaiH9gwKlek7V_7AbVwbWwHubBWScDVk6yA
+
+ngrok http http://localhost:5000
+
+
+
+ Forwarding https://46bf-49-206-39-221.ngrok-free.app
+
+So End point URL https://de1b-49-206-39-221.ngrok-free.app/receivepushmsg
